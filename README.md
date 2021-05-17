@@ -1,7 +1,6 @@
 <h1 align="center">NetFlix-Clone</h1>
 
 ![alt text](https://i.ibb.co/k6ykQmv/download.png)
-<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
 
 
 <h1 align="center"> 
@@ -30,7 +29,7 @@
 
 <h1>:pushpin: Como Usar</h1>
 
-<p>Para usar esse projeto basta criar uma conta do The Movie Database e pegar o seu token de identificação com esse token,crie .env.local e adicione o seu token aqui.</p>
+<p>Para usar esse projeto basta criar uma conta do The Movie Database e pegar o seu token de identificação com esse token basta ir em Api.js e trocar a api_key para a sua criada</p>
 
 <p>Por Exemplo: NEXT_APP_SECRET_KEY:"SUA KEY(Token) AQUI"</p>
 
