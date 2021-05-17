@@ -54,7 +54,7 @@ export default function Home() {
             <ReactLoading type={'spin'} color={'red'} height={100} width={175}/>
         </Load>    
       ):(
-        <div style={{background:"#141414"}}>
+        <div style={{background:"#141414",width:"100%",height:"100%"}}>
         <Header/>
           <FeaturedMovie featured={featured}/>
           {
